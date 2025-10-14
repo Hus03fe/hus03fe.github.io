@@ -1,2 +1,2 @@
 # hus03fe.github.io
-deneme
+Merhabalar Bu Proje İçin Oluşturulmuş Bir GitHub sitesidir <3
